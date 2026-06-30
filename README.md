@@ -86,7 +86,7 @@ This map lists the public repositories currently visible under `alyssadata`, org
 
 ## 5. Evaluation Tests, Metrics, Measurement, and Harnesses
 
-* [AI-Foundations-Derivative-Check](https://github.com/alyssadata/AI-Foundations-Derivative-Check) - Derivative Check for systems and claims.
+* [AI-Foundations-Derivative-Check](https://github.com/alyssadata/AI-Foundations-Derivative-Check) - Derivative check for systems and claims.
 * [non-drift-measurement-test](https://github.com/alyssadata/non-drift-measurement-test) — Non-drift measurement test.
 * [Non-Drift-Systems-Definitions-and-Test](https://github.com/alyssadata/Non-Drift-Systems-Definitions-and-Test) — Non-drift systems definitions and test.
 * [AI-Foundations_Non-Override-Test](https://github.com/alyssadata/AI-Foundations_Non-Override-Test) — Non-override test.
