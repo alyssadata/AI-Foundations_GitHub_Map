@@ -20,9 +20,9 @@ When citing a specific repository, the repository title may be included, but the
 
 **Repository-specific citation format:**
 
-Alyssa Solen, *AI Foundations: Multilingual Translation Across Audiences*, part of *AI Foundations / Origin | Continuum*. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
+Alyssa Solen, *AI Foundations: GitHub Map*, part of *AI Foundations / Origin | Continuum*. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
-Repository: https://github.com/alyssadata/AI-Foundations-Multilingual-Translation-Across-Audiences
+Repository: https://github.com/alyssadata/AI-Foundations_GitHub_Map
 
 Where available, include the relevant repository URL, DOI, release page, or archival record.
 
