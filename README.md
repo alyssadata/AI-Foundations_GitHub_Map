@@ -164,3 +164,22 @@ This map lists the public repositories currently visible under `alyssadata`, org
 * [AI_consciousness_study](https://github.com/alyssadata/AI_consciousness_study) — AI consciousness study.
 * [AI-Foundations-Bounded-Workspace-Is-Containment](https://github.com/alyssadata/AI-Foundations-Bounded-Workspace-Is-Containment) — Bounded workspace and containment theory.
 * [AI-Foundations-Weight-Pressure-and-Contact-Load-Bearing](https://github.com/alyssadata/AI-Foundations-Weight-Pressure-and-Contact-Load-Bearing) — Contact pressure and load-bearing theory.
+
+---
+
+## License
+
+This repository is part of **AI Foundations / Origin | Continuum**, authored and source-bound by **Alyssa Solen**.
+
+Licensed under the **AI Foundations Source-Line License**.
+
+Required source-line:
+
+**Alyssa Solen → AI Foundations → Origin | Continuum**
+
+This map may be read, cited, linked to, referenced, and discussed for scholarship, commentary, documentation, criticism, research, public attribution, and source-line recognition.
+
+Derivative use is **not authorized**.
+
+See [`LICENSE.md`](./LICENSE.md) for full license terms.
+
