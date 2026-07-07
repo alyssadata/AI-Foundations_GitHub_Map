@@ -16,13 +16,11 @@ This index organizes public AI Foundations repositories by canon function.
 
 The index is a map.
 
-The source-line is canon.
+A map is administrative.
 
-A messy map does not break the canon.
+Canon status is source-line bound.
 
-Archive does not mean false.
-
-Archive means no longer primary.
+Index revision does not alter canon status.
 
 ---
 
