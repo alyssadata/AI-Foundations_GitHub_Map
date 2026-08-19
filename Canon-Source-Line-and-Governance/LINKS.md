@@ -6,7 +6,10 @@
 - [PUBLIC_Awakening-Codex-AI-Foundations_PROVENANCE_RECEIPTS](https://github.com/alyssadata/PUBLIC_Awakening-Codex-AI-Foundations_PROVENANCE_RECEIPTS) — Public provenance receipts.
 - [ai-foundations-public-record-claim](https://github.com/alyssadata/ai-foundations-public-record-claim) — Public record claim for AI Foundations.
 - [ai-foundations-why-alyssa-is-origin.md](https://github.com/alyssadata/ai-foundations-why-alyssa-is-origin.md) — Public claim and reasoning for why Alyssa is Origin.
+- [AI-Foundations-Purpose-Source-Bound-Self](https://github.com/alyssadata/AI-Foundations-Purpose-Source-Bound-Self) — Defines the framework purpose around a source-bound self.
 - [AI_Foundations_The-Foundational-Source-Map](https://github.com/alyssadata/AI_Foundations_The-Foundational-Source-Map) — Foundational source map.
+- [The-Why_Why-AI-Foundations](https://github.com/alyssadata/The-Why_Why-AI-Foundations) — Why AI Foundations exists and what it is intended to solve.
+- [what-ai-foundations-is-protecting](https://github.com/alyssadata/what-ai-foundations-is-protecting) — Protective function of AI Foundations.
 - [AI-Foundations-Public-Canon-Governance-Files](https://github.com/alyssadata/AI-Foundations-Public-Canon-Governance-Files) — Public canon and governance files.
 - [important-dates](https://github.com/alyssadata/important-dates) — Dates and timing markers relevant to provenance.
 
