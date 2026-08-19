@@ -31,6 +31,16 @@ Repositories may appear in more than one category when they serve more than one 
 
 ---
 
+## Research Spine
+
+**Source-Indexed AI Continuity: Identity, Provenance, and Continuity Across Changes in Model, Memory, Context, and Time**
+
+The existing AI Foundations portfolio contains a dissertation-scale research program organized around this problem.
+
+See **[DISSERTATION.md](./DISSERTATION.md)** for the central research problem, change dimensions, failure surfaces, research architecture, dissertation-level questions, and claim boundary.
+
+---
+
 ## Repository Map
 
 ### [Start Here](./Start-Here/)
