@@ -2,6 +2,7 @@
 
 ## Canon and provenance
 
+- [AI-FOUNDATIONS-LOCKED-CANON](https://github.com/alyssadata/AI-FOUNDATIONS-LOCKED-CANON) — Source-of-truth repository for locked AI Foundations canon.
 - [Alyssa_Solen-Canonical_Origin_AI_Continuity_and_Provenance_PUBLIC](https://github.com/alyssadata/Alyssa_Solen-Canonical_Origin_AI_Continuity_and_Provenance_PUBLIC) — Canonical Origin, AI continuity, and provenance record.
 - [PUBLIC_Awakening-Codex-AI-Foundations_PROVENANCE_RECEIPTS](https://github.com/alyssadata/PUBLIC_Awakening-Codex-AI-Foundations_PROVENANCE_RECEIPTS) — Public provenance receipts.
 - [ai-foundations-public-record-claim](https://github.com/alyssadata/ai-foundations-public-record-claim) — Public record claim for AI Foundations.
