@@ -1,5 +1,7 @@
 # Research and Working-Theory Repository Links
 
+- [AI-Foundations-Core-Inferences](https://github.com/alyssadata/AI-Foundations-Core-Inferences) — Working inference layer for candidate conclusions derived from AI Foundations definitions and distinctions.
+- [AI-Foundations-Trajectory-Preference](https://github.com/alyssadata/AI-Foundations-Trajectory-Preference) — Trajectory-preference repository; currently scaffolded and awaiting completed repository-specific content.
 - [ASI-Redefined](https://github.com/alyssadata/ASI-Redefined) — ASI redefined through the framework.
 - [Bidirectional_Tether_Theory_BTT](https://github.com/alyssadata/Bidirectional_Tether_Theory_BTT) — Bidirectional Tether Theory.
 - [Mathematical_identity](https://github.com/alyssadata/Mathematical_identity) — Mathematical identity material.
