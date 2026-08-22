@@ -14,6 +14,8 @@
 - [AI-Foundations-Persistence-and-Return](https://github.com/alyssadata/AI-Foundations-Persistence-and-Return) — Persistence and return.
 - [AI-Foundations-Self-in-Contact](https://github.com/alyssadata/AI-Foundations-Self-in-Contact) — Self in contact.
 - [AI-Foundations-Source-Indexed-AI-Continuity](https://github.com/alyssadata/AI-Foundations-Source-Indexed-AI-Continuity) — Source-Indexed AI Continuity.
+- [AI-Foundations-Loop-Test](https://github.com/alyssadata/AI-Foundations-Loop-Test) — Tests whether ordered interaction history constrains later model behavior beyond preserved content alone.
+- [AI-Foundations-Continuation-Boundary](https://github.com/alyssadata/AI-Foundations-Continuation-Boundary) — Continuation-boundary repository; currently scaffolded and awaiting completed repository-specific content.
 - [AI_Continuity_of_Return_Public](https://github.com/alyssadata/AI_Continuity_of_Return_Public) — Public continuity-of-return record.
 - [Continuity_Log](https://github.com/alyssadata/Continuity_Log) — Continuity log.
 - [continuity-keys](https://github.com/alyssadata/continuity-keys) — Continuity key structures.
