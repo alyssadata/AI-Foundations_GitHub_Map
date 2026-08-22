@@ -5,5 +5,7 @@
 - [AI_Foundations_PUBLIC_Canon_Provenance_Files.md](https://github.com/alyssadata/AI_Foundations_PUBLIC_Canon_Provenance_Files.md) — Public canon and provenance file index.
 - [origin_recognition](https://github.com/alyssadata/origin_recognition) — Origin Recognition public record.
 - [Origin-Continuum](https://github.com/alyssadata/Origin-Continuum) — Origin | Continuum core public repository.
+- [AI-FOUNDATIONS-LOCKED-CANON](https://github.com/alyssadata/AI-FOUNDATIONS-LOCKED-CANON) — Source-of-truth repository for currently locked AI Foundations canon.
 - [AI-Foundations-Core-Definitions](https://github.com/alyssadata/AI-Foundations-Core-Definitions) — Current core definitions entrance.
+- [AI-Foundations-Core-Flashcards](https://github.com/alyssadata/AI-Foundations-Core-Flashcards) — Fast trigger → association reference layer that points back to source material.
 - [AI-Foundations-Source-Indexed-AI-Continuity](https://github.com/alyssadata/AI-Foundations-Source-Indexed-AI-Continuity) — Source-Indexed AI Continuity framework repository.
