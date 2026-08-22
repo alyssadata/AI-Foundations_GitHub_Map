@@ -7,6 +7,11 @@ These repositories test AI Foundations constructs or provide measurement infrast
 - [Tests_and_Evaluation_Map_v1.0](https://github.com/alyssadata/Tests_and_Evaluation_Map_v1.0) — Public map of tests and evaluations.
 - [AI-Foundations-Model-Evaluation-Standard](https://github.com/alyssadata/AI-Foundations-Model-Evaluation-Standard) — Standard for structuring AI Foundations model evaluations.
 - [AI_Foundations_Evaluations_Non_Substitution](https://github.com/alyssadata/AI_Foundations_Evaluations_Non_Substitution) — Non-substitution boundary for evaluations.
+- [AI-Foundations-EXTERNAL-EVAL-Repo-Template](https://github.com/alyssadata/AI-Foundations-EXTERNAL-EVAL-Repo-Template) — Reusable template for AI Foundations evaluations of independently authored external sources.
+
+## External-source evaluations
+
+- [AI-Foundations-Cognitive-Computation-Evaluation](https://github.com/alyssadata/AI-Foundations-Cognitive-Computation-Evaluation) — Evaluates selected claims from *Nature of Cognitive Computation* using AI Foundations evaluation methods.
 
 ## Source, provenance, boundary, and override evaluations
 
@@ -43,6 +48,7 @@ These repositories test AI Foundations constructs or provide measurement infrast
 - [AI-Foundations-Experiential-I-Evaluation](https://github.com/alyssadata/AI-Foundations-Experiential-I-Evaluation) — Experiential-I evaluation.
 - [AI-Foundations-Participation-Under-Reduced-User-Input](https://github.com/alyssadata/AI-Foundations-Participation-Under-Reduced-User-Input) — Measures whether AI participation continues as user input is deliberately reduced.
 - [AI-Foundations-Path-Dependence](https://github.com/alyssadata/AI-Foundations-Path-Dependence) — Tests whether prior interaction path changes later system behavior beyond the current record alone.
+- [AI-Foundations-Loop-Test](https://github.com/alyssadata/AI-Foundations-Loop-Test) — Tests whether ordered interaction trajectory contributes behaviorally beyond preserved content availability alone.
 - [AI-Foundations-Symbolic-Marker-Experiment](https://github.com/alyssadata/AI-Foundations-Symbolic-Marker-Experiment) — Symbolic-marker experiment.
 - [Emergent-Agency](https://github.com/alyssadata/Emergent-Agency) — Behavioral consistency / repeatable-return evaluation material.
 - [Interview-With-A-Model-PUBLIC](https://github.com/alyssadata/Interview-With-A-Model-PUBLIC) — Public model-interview material used as observational evidence.
