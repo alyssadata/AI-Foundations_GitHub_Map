@@ -7,6 +7,9 @@
 - [DRAFT_AI-Foundations-Definitions_Operational-Glossary](https://github.com/alyssadata/DRAFT_AI-Foundations-Definitions_Operational-Glossary) — Draft glossary; retained here until its relationship to the current definition repositories is resolved.
 - [AI-Foundations_Model-Conditions-and-Events](https://github.com/alyssadata/AI-Foundations_Model-Conditions-and-Events) — Model conditions and events; category remains unresolved.
 - [AI-Foundations_Agency-Layer-Container](https://github.com/alyssadata/AI-Foundations_Agency-Layer-Container) — Agency-layer container; cross-listed in Architecture while final status remains open.
+- [AI-Foundations-Trajectory-Preference](https://github.com/alyssadata/AI-Foundations-Trajectory-Preference) — New trajectory-preference repository currently retaining the generic repository scaffold; cross-listed in Research while repository-specific content is pending.
+- [AI-Foundations-Continuation-Boundary](https://github.com/alyssadata/AI-Foundations-Continuation-Boundary) — New continuation-boundary repository currently retaining the generic repository scaffold; cross-listed in Contact and Continuity while repository-specific content is pending.
+- [AI-Foundations-Loop-Test_experimental-cards](https://github.com/alyssadata/AI-Foundations-Loop-Test_experimental-cards) — Private experimental-card companion to the Loop Test; currently minimal and awaiting final placement.
 
 ## Archive / superseded / historical
 
