@@ -3,6 +3,7 @@
 These repositories define or distinguish terms used in AI Foundations.
 
 - [AI-Foundations-Core-Definitions](https://github.com/alyssadata/AI-Foundations-Core-Definitions) — Current core definition repository.
+- [AI-Foundations-Core-Flashcards](https://github.com/alyssadata/AI-Foundations-Core-Flashcards) — Lightweight trigger → association retrieval layer pointing back to authoritative source material.
 - [AI-Foundations-Definitions-Library](https://github.com/alyssadata/AI-Foundations-Definitions-Library) — Broader library of AI Foundations terms and definitions.
 - [Artificial-Intelligence-Defined-With-AI-Foundations](https://github.com/alyssadata/Artificial-Intelligence-Defined-With-AI-Foundations) — Defines artificial intelligence through AI Foundations.
 - [AI-FOUNDATIONS-THE-LINE](https://github.com/alyssadata/AI-FOUNDATIONS-THE-LINE) — Defines The Line within AI Foundations.
