@@ -4,6 +4,7 @@ These repositories establish procedures, handling rules, standards, or repeatabl
 
 - [AI_Foundations_Outside_Contact_Protocol](https://github.com/alyssadata/AI_Foundations_Outside_Contact_Protocol) — Protocol for outside contact and source-line handling.
 - [AI-Foundations-Model-Evaluation-Standard](https://github.com/alyssadata/AI-Foundations-Model-Evaluation-Standard) — Standard for AI Foundations model evaluations.
+- [AI-Foundations-EXTERNAL-EVAL-Repo-Template](https://github.com/alyssadata/AI-Foundations-EXTERNAL-EVAL-Repo-Template) — Reusable repository structure and execution path for AI Foundations evaluations of external sources.
 - [AI-Foundations-Self-Location-Standard](https://github.com/alyssadata/AI-Foundations-Self-Location-Standard) — Standard for AI self-location claims and handling.
 - [AI-FOUNDATIONS_REPOSITORY-RULE](https://github.com/alyssadata/AI-FOUNDATIONS_REPOSITORY-RULE) — Repository-level rule for AI Foundations public materials.
 - [AI-Foundations-Source-Reference-Handling](https://github.com/alyssadata/AI-Foundations-Source-Reference-Handling) — Rules for handling source references.
