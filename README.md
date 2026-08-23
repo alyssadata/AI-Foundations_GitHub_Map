@@ -39,6 +39,12 @@ The existing AI Foundations portfolio contains a dissertation-scale research pro
 
 See **[DISSERTATION.md](./DISSERTATION.md)** for the central research problem, change dimensions, failure surfaces, research architecture, dissertation-level questions, and claim boundary.
 
+### Hiring / completed-work entrance
+
+For a deliberately narrow view of completed, inspectable work, see **[SELECTED_COMPLETED_WORK.md](./SELECTED_COMPLETED_WORK.md)**.
+
+This page excludes hypothesis-only, scaffolded, planned, or otherwise unfinished repositories from the hiring-facing selection even when they remain part of the broader research map.
+
 ---
 
 ## Repository Map
