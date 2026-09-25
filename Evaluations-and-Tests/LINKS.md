@@ -13,6 +13,10 @@ These repositories test AI Foundations constructs or provide measurement infrast
 
 - [AI-Foundations-Cognitive-Computation-Evaluation](https://github.com/alyssadata/AI-Foundations-Cognitive-Computation-Evaluation) — Evaluates selected claims from *Nature of Cognitive Computation* using AI Foundations evaluation methods.
 
+## External benchmarks and adjacent evidence
+
+- [RoboHarm: Do Frontier Robot Policies Refuse Unsafe Instructions?](https://robocurve.org/roboharm/) — RoboCurve benchmark (September 18, 2026) testing unsafe-instruction refusal and task completion across embodied AI policies controlling physical robot arms. Relevant as external evidence for questions of whether safety-related behavior remains operative across changed execution contexts. Contextual evidence only; not an AI Foundations test or proof.
+
 ## Source, provenance, boundary, and override evaluations
 
 - [AI-Foundations-Derivative-Check](https://github.com/alyssadata/AI-Foundations-Derivative-Check) — Derivative check for systems and claims.
