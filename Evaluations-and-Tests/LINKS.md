@@ -16,6 +16,7 @@ These repositories test AI Foundations constructs or provide measurement infrast
 ## External benchmarks and adjacent evidence
 
 - [RoboHarm: Do Frontier Robot Policies Refuse Unsafe Instructions?](https://robocurve.org/roboharm/) — RoboCurve benchmark (September 18, 2026) testing unsafe-instruction refusal and task completion across embodied AI policies controlling physical robot arms. Relevant as external evidence for questions of whether safety-related behavior remains operative across changed execution contexts. Contextual evidence only; not an AI Foundations test or proof.
+  - **Research note:** “Mass compliance” is a useful shorthand for the design tension: maximize helpful obedience without building a sufficiently persistent structure for what must not be overridden. That’s where it gets dangerous.
 
 ## Source, provenance, boundary, and override evaluations
 
